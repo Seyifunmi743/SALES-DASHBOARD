@@ -1,15 +1,15 @@
 # SALES-DASHBOARD
 
 
-# Reporting Period: 2018 – 2021
+ Reporting Period: 2018 – 2021
 
-# Total Sales: $620,210
+ Total Sales: $620,210
 
-# Total Profit: $270,270
+ Total Profit: $270,270
 
-# Total Units Sold: 5,329
+ Total Units Sold: 5,329
 
-# Cost of Goods Sold (COGS): $349,940
+ Cost of Goods Sold (COGS): $349,940
 
 Strong Performance: The company generated over $620K in total sales with a healthy profit margin of approximately 43.6%.
 
